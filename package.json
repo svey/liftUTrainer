@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-graphql": "^0.6.12",
+    "graphql": "^14.0.2",
+    "lodash": "^4.17.11"
+  },
+  "name": "liftutrainer",
+  "version": "1.0.0",
+  "description": "for building your routines",
+  "main": "server/index.js",
+  "devDependencies": {
+    "eslint-config-airbnb": "^17.1.0"
+  },
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "liftu",
+    "gym",
+    "calisthenics",
+    "workout",
+    "fitness"
+  ],
+  "author": "svey",
+  "license": "ISC"
+}
